@@ -1,0 +1,7 @@
+div#secondary::-webkit-scrollbar, ytd-comments::-webkit-scrollbar {
+    width: 8px;
+}
+
+div#secondary::-webkit-scrollbar-thumb, ytd-comments::-webkit-scrollbar-thumb {
+    background: var(--yt-opalescence-grey-opacity-lighten-3);
+}
